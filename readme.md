@@ -10,7 +10,7 @@
 
   </p>
 
-# Sound Reactive WLED! 🎵
+# 16 channel sound reactive dubbel ESP controller for WLED! 🎵 (under construction (edit) for my new 16 channel Wled controller, all info below is still or at least from the origenal GIT)
 
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
 
@@ -85,7 +85,7 @@ A fast and feature-rich implementation of an ESP8266/ESP32 webserver to control 
 
 ## 📲 Quick start guide and documentation
 
-See the [documentation on our official site](https://kno.wled.ge)!
+See the [documentation on the official site](https://kno.wled.ge)!
 
 [On this page](https://kno.wled.ge/basics/tutorials/) you can find excellent tutorials made by the community and helpful tools to help you get your new lamp up and running!
 
