@@ -14,7 +14,19 @@
 
 <img src="/images/wled-16ch-pcb-layout.jpg" width="50%"><img src="/images/wled-16ch-pcb-2Dfr.jpg" width="50%">
 
-(all info below this, is still or at least from the origenal GIT, thx for you interest, LeVos)
+16 channel ws28xx controller, designed for 12v or 24v digital ledstrips, 5v also.
+Each channel max 1024 leds (i need to test this)
+This board has 2 ESP's, one WT32-ETH-01 and one ESP32-VROOM-EU 16mb, so LAN and external antenna.
+
+The board is powered with AC ~230V and controls an 30 Amp relais that controls the/a power supply for the LEDS.
+
+
+
+# And a second 'addon' board for a prebuild esp32 relais board to control 6 channels digital Leds.
+
+<img src="/images/esp-relais-wled-addon.jpg" width="50%"><img src="/images/esp-relais.jpg" width="50%">
+this will be updated every 2-3 days
+# (all info below this, is still or at least from the origenal GIT, thx for you interest, LeVos)
 
 
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
