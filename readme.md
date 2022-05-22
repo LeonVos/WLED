@@ -12,6 +12,8 @@
 
 # 16 channel sound reactive dubbel ESP controller for WLED! 🎵 (under construction (edit) for my new 16 channel Wled controller, all info below is still or at least from the origenal GIT)
 
+<img src="/images/wled-16ch-pcb-layout.jpg" width="50%"><img src="/images/wled-16ch-pcb-layout.jpg" width="50%">
+
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
 
 - Audio input from several sources including MAX4466, MAX9814, MAX9184, INMP401, INMP441 (for ESP32) and line-in.
