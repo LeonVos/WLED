@@ -10,11 +10,11 @@
 
   </p>
 
-# 16 channel sound reactive dubbel ESP controller for WLED! 🎵 (under construction (edit) for my new 16 channel Wled controller, all info below is still or at least from the origenal GIT)
+# 16 channel sound reactive dubbel ESP controller for WLED! 🎵 (under construction (edit) for my new 16 channel Wled controller, )
 
 <img src="/images/wled-16ch-pcb-layout.jpg" width="50%"><img src="/images/wled-16ch-pcb-2Dfr.jpg" width="50%">
 
-all info below this, is still or at least from the origenal GIT)
+(all info below this, is still or at least from the origenal GIT, thx for you interest, LeVos)
 
 
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
