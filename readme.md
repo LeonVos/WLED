@@ -14,6 +14,9 @@
 
 <img src="/images/wled-16ch-pcb-layout.jpg" width="50%"><img src="/images/wled-16ch-pcb-2Dfr.jpg" width="50%">
 
+all info below this, is still or at least from the origenal GIT)
+
+
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
 
 - Audio input from several sources including MAX4466, MAX9814, MAX9184, INMP401, INMP441 (for ESP32) and line-in.
