@@ -18,15 +18,27 @@
 Each channel max 1024 leds (i need to test this)
 This board has 2 ESP's, one WT32-ETH-01 and one ESP32-VROOM-EU 16mb, so LAN and external antenna.
 
-The board is powered with AC ~230V and controls an 30 Amp relais that controls the/a power supply for the LEDS.
+The board is powered with AC ~230V and controls an 30 Amp relais that controls the/a power supply for the LEDS. This project is in development, i hope to have in 4-6 weeks a final product. #FIRST i have !
 
+(is now in production)
 
-
-# And a second 'addon' board for a prebuild esp32 relais board to control 6 channels digital Leds.
+# A second 'addon' board for a prebuild esp32 relais board to control 6 channels digital Leds.
 
 <img src="/images/esp-relais-wled-addon.jpg" width="50%"><img src="/images/esp-relais.jpg" width="50%">
-this will be updated every 2-3 days
-# (all info below this, is still or at least from the origenal GIT, thx for you interest, LeVos)
+
+This 6 channel add-on board comes with a power distibution PCB that can be sepparated from the main PCB, so it can be (beter) fitted in a cassing of your choise, but then you have to connect a extra GRND wire to the GRND header.
+The relay board has a ESP32-Vroom build on and controls the relay that turns ON/OFF the (your) power supply for the LEDS (5v, 12v or 24v).
+The board is powered by mains (~110v/~230v AC) so the ESP will stay online.
+
+On the ADD-ON board there is a LAN8720 ethernet board build on for fast stabel network connection, wifi is also possible through the ESP32 (not at the same time)
+Options for audio input can be done with a direct wire LINE-IN input or mic (not at the same time)
+
+LED data output has, for each line, a dip swith selection for a 33 Ohm or 240 Ohm resistor output, so depnding on your cable setup/lenght you can select this for a beter transfer of data.
+
+
+this will be updated every 2-3 days 
+(please correct me if some words, line(s) or gramatics are faulty)
+# (all info below this, is still or at least from the 'official' soundreactive Wled GIT, all below info is for the WLED firmware info and options, thx for you interest, LeVos)
 
 
 Welcome to our Sound Reactive fork of WLED. In addition to the features of WLED below, we also support:
