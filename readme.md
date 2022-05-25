@@ -41,9 +41,8 @@ this will be updated every 2-3 days
 
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA"><img src="/images/paypal-donate.png" width="20%"></a>
+"Creation is an expensive idea"
 
-
-https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA
 
 
 # (all info below this, is still or at least from the 'official' soundreactive Wled GIT, all below info is for the WLED firmware info and options, thx for you interest, LeVos)
