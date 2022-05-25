@@ -38,6 +38,14 @@ LED data output has, for each line, a dip swith selection for a 33 Ohm or 240 Oh
 
 this will be updated every 2-3 days 
 (please correct me if some words, line(s) or gramatics are faulty)
+
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA"><img src="/images/paypal-donate.png" width="20%"></a>
+
+
+https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA
+
+
 # (all info below this, is still or at least from the 'official' soundreactive Wled GIT, all below info is for the WLED firmware info and options, thx for you interest, LeVos)
 
 
