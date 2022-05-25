@@ -40,8 +40,8 @@ this will be updated every 2-3 days
 (please correct me if some words, line(s) or gramatics are faulty)
 
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA"><img src="/images/paypal-donate.png" width="20%"></a>
-"Creation is an expensive idea"
+<a href="https://www.paypal.com/donate/?hosted_button_id=X65KN2CQG5FLA"><img src="/images/paypal-donate.png" width="10%"></a> 
+ "Creation is an expensive idea"
 
 
 
